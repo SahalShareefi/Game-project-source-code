@@ -1,0 +1,9 @@
+I was caring in this prototype for "buiding system" & "camera movement" during building Madenti project and still not completed yet.
+
+gameplay instructions:
+
+First open Madenti.exe->click play.
+
+Right click: disable choosen building.
+Left click: choose building and build choosen building.
+Mouse Wheel: zoom in zoom out and dragging the camera.
