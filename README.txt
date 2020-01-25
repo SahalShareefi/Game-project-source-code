@@ -1,4 +1,3 @@
-Hi. here you can open the project using this source code.
-But you should install Unity engine first.
+install Unity engine to run the source code
 
-and i am happy to your feedback, thank you.
+looking for your feedback, thank you :) 
