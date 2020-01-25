@@ -1,3 +1,6 @@
-install Unity engine to run the source code
+Please install Unity engine first to be able to run the source code.
 
-looking for your feedback, thank you :) 
+The frontend scripts done by me is:
+ GroundNode.cs, General_UI.cs, city_Build_Manager_Editor.cs, Building_Logic.cs, CollectBuildingParts.cs, Detector_And_Progress.cs, CameraController.cs, and CameraFollow.cs.
+
+Looking for your feedback & comments, thank you :) 
