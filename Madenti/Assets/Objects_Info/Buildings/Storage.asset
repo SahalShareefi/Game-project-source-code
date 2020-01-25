@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fbe51390e1a3614795d7b3924f1809a, type: 3}
+  m_Name: Storage
+  m_EditorClassIdentifier: 
+  Building_Type: 2
+  Building_Status: 0
+  Node: Lands (2)
+  BuildingModel: {fileID: 1485509557173448, guid: f502d8e8d6a33cd4a958f464e12ab07c,
+    type: 2}
+  Position: {x: -82.689995, y: 0.5133972, z: 2.9199982}
+  HoursToBuild: 0
+  MinutesToBuild: 0
+  SecondsToBuild: 3
+  RequiredSkill: {fileID: 11400000, guid: 987b1865be6a97443b91d1d21db53067, type: 2}
+  output: {fileID: 0}
+  input: {fileID: 11400000, guid: 51fdbadf7a76c8047917d507339f4156, type: 2}

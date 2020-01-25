@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e80ba0488dfa33b4c8edff1b1125c4bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BuildingInfo: {fileID: 11400000, guid: cfc298f68b25650408ed4488d6a675df, type: 2}
+  - GFX_Holder: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fbe51390e1a3614795d7b3924f1809a, type: 3}
+  m_Name: Iron_Factory
+  m_EditorClassIdentifier: 
+  Building_Type: 1
+  RequiredSkill: {fileID: 11400000, guid: 3f59ca18fe25a7b4f8611039e0479efb, type: 2}
+  output: {fileID: 11400000, guid: 918464000ecd95749bc6cf6c82c1eaaf, type: 2}
+  input: {fileID: 11400000, guid: 8b6ee0fe0338f124bbc135c2cda952b5, type: 2}

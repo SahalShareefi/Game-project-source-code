@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa796839191dc504ab708da443a3d551, type: 3}
+  m_Name: Rails
+  m_EditorClassIdentifier: 
+  input: {fileID: 0}
+  output: {fileID: 0}
+  preFab: {fileID: 1833551658058358, guid: 6405a231aa9463442815f8e0662d5360, type: 2}
+  blockName: 
+  Rotation: {x: 0, y: 0, z: 0, w: 0}

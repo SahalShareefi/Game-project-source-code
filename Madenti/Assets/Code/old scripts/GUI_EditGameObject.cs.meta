@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dfbf441c4ae906e448a613f52e0f97f9
+timeCreated: 1524110115
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Put_Here_The_Building: {fileID: 1238755213380430, guid: 65d5d5193179eee41ae1ccc4ebad2086,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

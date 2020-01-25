@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fbe51390e1a3614795d7b3924f1809a, type: 3}
+  m_Name: Tower
+  m_EditorClassIdentifier: 
+  price: 
+  Building_Type: 0
+  Building_Status: 0
+  BuildingModel: {fileID: 1490350776425892, guid: a930ed44c6b2ed4498d392035ad8e74e,
+    type: 2}
+  Position: {x: -83, y: 1.0866028, z: 16.400002}
+  HoursToBuild: 0
+  MinutesToBuild: 0
+  SecondsToBuild: 1
+  RequiredSkill: {fileID: 0}
+  output: {fileID: 0}
+  input: {fileID: 11400000, guid: 51fdbadf7a76c8047917d507339f4156, type: 2}
